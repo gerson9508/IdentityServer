@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SZG.Estacion.Terrena.IdentityServer.Domain/1.0.0": {
+        "runtime": {
+          "SZG.Estacion.Terrena.IdentityServer.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SZG.Estacion.Terrena.IdentityServer.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

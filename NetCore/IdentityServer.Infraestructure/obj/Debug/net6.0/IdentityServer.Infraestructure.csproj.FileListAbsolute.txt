@@ -1,0 +1,17 @@
+C:\Users\gerso\Documents\ProjectGerson\IdentityServer4\NetCore\IdentityServer.Infraestructure\bin\Debug\net6.0\IdentityServer.Infraestructure.deps.json
+C:\Users\gerso\Documents\ProjectGerson\IdentityServer4\NetCore\IdentityServer.Infraestructure\bin\Debug\net6.0\IdentityServer.Infraestructure.runtimeconfig.json
+C:\Users\gerso\Documents\ProjectGerson\IdentityServer4\NetCore\IdentityServer.Infraestructure\bin\Debug\net6.0\IdentityServer.Infraestructure.dll
+C:\Users\gerso\Documents\ProjectGerson\IdentityServer4\NetCore\IdentityServer.Infraestructure\bin\Debug\net6.0\IdentityServer.Infraestructure.pdb
+C:\Users\gerso\Documents\ProjectGerson\IdentityServer4\NetCore\IdentityServer.Infraestructure\bin\Debug\net6.0\IdentityServer.Domain.dll
+C:\Users\gerso\Documents\ProjectGerson\IdentityServer4\NetCore\IdentityServer.Infraestructure\bin\Debug\net6.0\IdentityServer.Domain.pdb
+C:\Users\gerso\Documents\ProjectGerson\IdentityServer4\NetCore\IdentityServer.Infraestructure\obj\Debug\net6.0\IdentityServer.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\gerso\Documents\ProjectGerson\IdentityServer4\NetCore\IdentityServer.Infraestructure\obj\Debug\net6.0\IdentityServer.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerso\Documents\ProjectGerson\IdentityServer4\NetCore\IdentityServer.Infraestructure\obj\Debug\net6.0\IdentityServer.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\gerso\Documents\ProjectGerson\IdentityServer4\NetCore\IdentityServer.Infraestructure\obj\Debug\net6.0\IdentityServer.Infraestructure.AssemblyInfo.cs
+C:\Users\gerso\Documents\ProjectGerson\IdentityServer4\NetCore\IdentityServer.Infraestructure\obj\Debug\net6.0\IdentityServer.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\gerso\Documents\ProjectGerson\IdentityServer4\NetCore\IdentityServer.Infraestructure\obj\Debug\net6.0\IdentityServer.Infraestructure.csproj.CopyComplete
+C:\Users\gerso\Documents\ProjectGerson\IdentityServer4\NetCore\IdentityServer.Infraestructure\obj\Debug\net6.0\IdentityServer.Infraestructure.dll
+C:\Users\gerso\Documents\ProjectGerson\IdentityServer4\NetCore\IdentityServer.Infraestructure\obj\Debug\net6.0\refint\IdentityServer.Infraestructure.dll
+C:\Users\gerso\Documents\ProjectGerson\IdentityServer4\NetCore\IdentityServer.Infraestructure\obj\Debug\net6.0\IdentityServer.Infraestructure.pdb
+C:\Users\gerso\Documents\ProjectGerson\IdentityServer4\NetCore\IdentityServer.Infraestructure\obj\Debug\net6.0\IdentityServer.Infraestructure.genruntimeconfig.cache
+C:\Users\gerso\Documents\ProjectGerson\IdentityServer4\NetCore\IdentityServer.Infraestructure\obj\Debug\net6.0\ref\IdentityServer.Infraestructure.dll

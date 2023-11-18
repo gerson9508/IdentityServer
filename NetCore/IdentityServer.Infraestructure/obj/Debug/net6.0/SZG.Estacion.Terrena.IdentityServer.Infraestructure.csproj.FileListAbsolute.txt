@@ -1,0 +1,17 @@
+C:\Users\gerso\source\repos\SZG.EstacionTerrena.Compliance\SZG.Estacion.Terrena.IdentityServer4.Infraestructure\bin\Debug\net6.0\SZG.Estacion.Terrena.IdentityServer.Infraestructure.deps.json
+C:\Users\gerso\source\repos\SZG.EstacionTerrena.Compliance\SZG.Estacion.Terrena.IdentityServer4.Infraestructure\bin\Debug\net6.0\SZG.Estacion.Terrena.IdentityServer.Infraestructure.runtimeconfig.json
+C:\Users\gerso\source\repos\SZG.EstacionTerrena.Compliance\SZG.Estacion.Terrena.IdentityServer4.Infraestructure\bin\Debug\net6.0\SZG.Estacion.Terrena.IdentityServer.Infraestructure.dll
+C:\Users\gerso\source\repos\SZG.EstacionTerrena.Compliance\SZG.Estacion.Terrena.IdentityServer4.Infraestructure\bin\Debug\net6.0\SZG.Estacion.Terrena.IdentityServer.Infraestructure.pdb
+C:\Users\gerso\source\repos\SZG.EstacionTerrena.Compliance\SZG.Estacion.Terrena.IdentityServer4.Infraestructure\bin\Debug\net6.0\SZG.Estacion.Terrena.IdentityServer.Domain.dll
+C:\Users\gerso\source\repos\SZG.EstacionTerrena.Compliance\SZG.Estacion.Terrena.IdentityServer4.Infraestructure\bin\Debug\net6.0\SZG.Estacion.Terrena.IdentityServer.Domain.pdb
+C:\Users\gerso\source\repos\SZG.EstacionTerrena.Compliance\SZG.Estacion.Terrena.IdentityServer4.Infraestructure\obj\Debug\net6.0\SZG.Estacion.Terrena.IdentityServer.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\gerso\source\repos\SZG.EstacionTerrena.Compliance\SZG.Estacion.Terrena.IdentityServer4.Infraestructure\obj\Debug\net6.0\SZG.Estacion.Terrena.IdentityServer.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerso\source\repos\SZG.EstacionTerrena.Compliance\SZG.Estacion.Terrena.IdentityServer4.Infraestructure\obj\Debug\net6.0\SZG.Estacion.Terrena.IdentityServer.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\gerso\source\repos\SZG.EstacionTerrena.Compliance\SZG.Estacion.Terrena.IdentityServer4.Infraestructure\obj\Debug\net6.0\SZG.Estacion.Terrena.IdentityServer.Infraestructure.AssemblyInfo.cs
+C:\Users\gerso\source\repos\SZG.EstacionTerrena.Compliance\SZG.Estacion.Terrena.IdentityServer4.Infraestructure\obj\Debug\net6.0\SZG.Estacion.Terrena.IdentityServer.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\gerso\source\repos\SZG.EstacionTerrena.Compliance\SZG.Estacion.Terrena.IdentityServer4.Infraestructure\obj\Debug\net6.0\SZG.Estacion.Terrena.IdentityServer.Infraestructure.csproj.CopyComplete
+C:\Users\gerso\source\repos\SZG.EstacionTerrena.Compliance\SZG.Estacion.Terrena.IdentityServer4.Infraestructure\obj\Debug\net6.0\SZG.Estacion.Terrena.IdentityServer.Infraestructure.dll
+C:\Users\gerso\source\repos\SZG.EstacionTerrena.Compliance\SZG.Estacion.Terrena.IdentityServer4.Infraestructure\obj\Debug\net6.0\refint\SZG.Estacion.Terrena.IdentityServer.Infraestructure.dll
+C:\Users\gerso\source\repos\SZG.EstacionTerrena.Compliance\SZG.Estacion.Terrena.IdentityServer4.Infraestructure\obj\Debug\net6.0\SZG.Estacion.Terrena.IdentityServer.Infraestructure.pdb
+C:\Users\gerso\source\repos\SZG.EstacionTerrena.Compliance\SZG.Estacion.Terrena.IdentityServer4.Infraestructure\obj\Debug\net6.0\SZG.Estacion.Terrena.IdentityServer.Infraestructure.genruntimeconfig.cache
+C:\Users\gerso\source\repos\SZG.EstacionTerrena.Compliance\SZG.Estacion.Terrena.IdentityServer4.Infraestructure\obj\Debug\net6.0\ref\SZG.Estacion.Terrena.IdentityServer.Infraestructure.dll

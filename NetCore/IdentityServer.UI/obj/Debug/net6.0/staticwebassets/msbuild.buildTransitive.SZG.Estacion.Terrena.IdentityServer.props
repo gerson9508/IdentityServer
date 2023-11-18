@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SZG.Estacion.Terrena.IdentityServer.props" />
+</Project>

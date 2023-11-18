@@ -1,0 +1,12 @@
+C:\Users\gerso\Documents\ProjectGerson\APPS\SZG.Estacion.Terrena.IdentityServer4\SZG.Estacion.Terrena.IdentityServer4.Dommain\bin\Release\net6.0\SZG.Estacion.Terrena.IdentityServer4.Domain.deps.json
+C:\Users\gerso\Documents\ProjectGerson\APPS\SZG.Estacion.Terrena.IdentityServer4\SZG.Estacion.Terrena.IdentityServer4.Dommain\bin\Release\net6.0\SZG.Estacion.Terrena.IdentityServer4.Domain.dll
+C:\Users\gerso\Documents\ProjectGerson\APPS\SZG.Estacion.Terrena.IdentityServer4\SZG.Estacion.Terrena.IdentityServer4.Dommain\bin\Release\net6.0\SZG.Estacion.Terrena.IdentityServer4.Domain.pdb
+C:\Users\gerso\Documents\ProjectGerson\APPS\SZG.Estacion.Terrena.IdentityServer4\SZG.Estacion.Terrena.IdentityServer4.Dommain\obj\Release\net6.0\SZG.Estacion.Terrena.IdentityServer4.Domain.csproj.AssemblyReference.cache
+C:\Users\gerso\Documents\ProjectGerson\APPS\SZG.Estacion.Terrena.IdentityServer4\SZG.Estacion.Terrena.IdentityServer4.Dommain\obj\Release\net6.0\SZG.Estacion.Terrena.IdentityServer4.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerso\Documents\ProjectGerson\APPS\SZG.Estacion.Terrena.IdentityServer4\SZG.Estacion.Terrena.IdentityServer4.Dommain\obj\Release\net6.0\SZG.Estacion.Terrena.IdentityServer4.Domain.AssemblyInfoInputs.cache
+C:\Users\gerso\Documents\ProjectGerson\APPS\SZG.Estacion.Terrena.IdentityServer4\SZG.Estacion.Terrena.IdentityServer4.Dommain\obj\Release\net6.0\SZG.Estacion.Terrena.IdentityServer4.Domain.AssemblyInfo.cs
+C:\Users\gerso\Documents\ProjectGerson\APPS\SZG.Estacion.Terrena.IdentityServer4\SZG.Estacion.Terrena.IdentityServer4.Dommain\obj\Release\net6.0\SZG.Estacion.Terrena.IdentityServer4.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gerso\Documents\ProjectGerson\APPS\SZG.Estacion.Terrena.IdentityServer4\SZG.Estacion.Terrena.IdentityServer4.Dommain\obj\Release\net6.0\SZG.Estacion.Terrena.IdentityServer4.Domain.dll
+C:\Users\gerso\Documents\ProjectGerson\APPS\SZG.Estacion.Terrena.IdentityServer4\SZG.Estacion.Terrena.IdentityServer4.Dommain\obj\Release\net6.0\refint\SZG.Estacion.Terrena.IdentityServer4.Domain.dll
+C:\Users\gerso\Documents\ProjectGerson\APPS\SZG.Estacion.Terrena.IdentityServer4\SZG.Estacion.Terrena.IdentityServer4.Dommain\obj\Release\net6.0\SZG.Estacion.Terrena.IdentityServer4.Domain.pdb
+C:\Users\gerso\Documents\ProjectGerson\APPS\SZG.Estacion.Terrena.IdentityServer4\SZG.Estacion.Terrena.IdentityServer4.Dommain\obj\Release\net6.0\ref\SZG.Estacion.Terrena.IdentityServer4.Domain.dll
